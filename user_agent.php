@@ -7,7 +7,7 @@
  *
  * Author         :	CodexWorld
  * Website        :	http://www.codexworld.com/
- * Tutorial Link  :	http://www.codexworld.com/mobile-device-detection-php/
+ * Tutorial Link  :	http://www.codexworld.com/mobile-device-detection-in-php/
  */
 class UserAgent {
 
